@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left" margin:5px>🔥  My Stats :</h3>
+ 
 
 ###
 
