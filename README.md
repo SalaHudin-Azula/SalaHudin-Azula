@@ -44,7 +44,6 @@
    <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  height="90" alt="React logo/>
                           
- 
 </div>
 
 ###
@@ -53,7 +52,7 @@
 
 ###
 
-<div align="center">
+<div align="center" margin:5>
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
