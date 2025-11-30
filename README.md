@@ -1,3 +1,6 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <div align="center" borderRadius:50>
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsdmV1OHlndGlyNGptdWZyczR2bnF1ZWo3dWhtam04aHB6cHFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDx2cpvX9QWjerAwjg/giphy.gif"  />
 </div>
@@ -48,8 +51,7 @@
 
 ###
 
- 
-
+<h3 align="left">My Performance</h3>
 ###
 
 <div align="bottom" margin:5>
