@@ -1,7 +1,7 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center" borderRadius:50>
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRsdmV1OHlndGlyNGptdWZyczR2bnF1ZWo3dWhtam04aHB6cHFraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDx2cpvX9QWjerAwjg/giphy.gif"  />
 </div>
-
+ 
 ###
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left" margin:5px>🔥  My Stats :</h3>
 
 ###
 
