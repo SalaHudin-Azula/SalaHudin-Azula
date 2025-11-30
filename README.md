@@ -52,7 +52,7 @@
 
 ###
 
-<div align="center" margin:5>
+<div align="bottom" margin:5>
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
